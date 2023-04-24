@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Scene.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/Task Type Scene.unity
+    guid: 99d0d4acac7a8d544a7872a494a6d4c6
+  - enabled: 1
+    path: Assets/Scenes/First Probabilty Scene.unity
+    guid: 304d31f396f975a4d9e585692b93be23
+  - enabled: 1
+    path: Assets/Scenes/Second Probabilty Scene.unity
+    guid: d523e07e801a36243935ba283b8d46e8
+  - enabled: 1
+    path: Assets/Scenes/Third Probabilty Scene.unity
+    guid: 05e3b7dc718f8154fb83a7ff9a33797b
+  - enabled: 1
+    path: Assets/Scenes/History Scene.unity
+    guid: e884a7581c43cfb4195c215c553434b0
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 7340c9993e44e7142a01feb6d86a5c27, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: b07d9b7459923ac4c8f6028a851bd0ef, type: 2}
